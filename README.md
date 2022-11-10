@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipwhy12&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vipwhy12)](https://solved.ac/vipwhy12/)
