@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-blog : https://bbangya16.tistory.com/...
+- 🔭 I’m currently working on https://bbangya16.tistory.com/ ...
+- 🌱 [I’m currently learning](https://thunder-year-be8.notion.site/SW-5-Noh_Yuna-0b2bcd50851e485baa21b69885ee7cc9) ...
+blog : https://bbangya16.tistory.com/
 notion : https://thunder-year-be8.notion.site/SW-5-Noh_Yuna-0b2bcd50851e485baa21b69885ee7cc9
 <!--
 **vipwhy12/vipwhy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
