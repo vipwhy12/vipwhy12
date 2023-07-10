@@ -1,6 +1,6 @@
 ### 🙇🏻‍♀️ 안녕하세요 노유나입니다.
-
 <br>
+
 ## 👀 목표
 
 👉 개발로 세상을 더 이롭게 
@@ -26,4 +26,3 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipwhy12&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vipwhy12)](https://solved.ac/vipwhy12/)
