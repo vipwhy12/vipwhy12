@@ -1,9 +1,11 @@
 ### 🙇🏻‍♀️ 안녕하세요 백엔드 개발자 노유나입니다.
 
 ## 👀 목표
-<br> 깔끔하고 확장성이 높은 코드를 구현하는 것을 추구합니다. 
+
+깔끔하고 확장성이 높은 코드를 구현하는 것을 추구합니다.
 
 ## 👩🏼‍💻 기록하며 성장합니다
+
 <p>
   <a href="https://bbangya16.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/Notion-0A66C2?style=flat-square&logo=notion&logoColor=white"/></a>
