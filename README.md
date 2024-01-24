@@ -5,8 +5,8 @@
 ## 👩🏼‍💻 기록하며 성장합니다
 
 <p>
-  <a href="https://bbangya16.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://thunder-year-be8.notion.site/BoOk-0b2bcd50851e485baa21b69885ee7cc9?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-0A66C2?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://velog.io/@vipwhy12/posts" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://portfolioyuna.notion.site/_-c1bd48c417a14d4f8e8757442b64d8e1" target="_blank"><img src="https://img.shields.io/badge/Notion-0A66C2?style=flat-square&logo=notion&logoColor=white"/></a>
 </p>
 
 ## 💪 Skills
