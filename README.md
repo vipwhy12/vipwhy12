@@ -15,12 +15,10 @@
 <h3>Connect Me</h3>
 
 <p>
-  <a href="https://velog.io/@vipwhy12/posts" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://velog.io/@vipwhy12/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:vipwhy12@naver.com" target="_blank"><img src="https://img.shields.io/badge/vipwhy12@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <!--   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
 </p>
-
-<hr>
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
