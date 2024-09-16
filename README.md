@@ -12,7 +12,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>  
 
-<h3>Connect Me</h3>
+<h3>Contact Me</h3>
 
 <p>
   <a href="https://velog.io/@vipwhy12/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
